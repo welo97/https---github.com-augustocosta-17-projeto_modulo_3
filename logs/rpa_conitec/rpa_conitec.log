@@ -1,0 +1,284 @@
+2026-07-06 11:40:53,684 | INFO | ====== WebDriver manager ======
+2026-07-06 11:40:54,171 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 11:57:36,062 | INFO | ====== WebDriver manager ======
+2026-07-06 11:57:36,547 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 11:57:44,023 | ERROR | Erro na coleta: Message: element click intercepted: Element <a class="internal-link" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="" href="resolveuid/ffa5f5200ae045a59b970607760ca1a8" target="_blank" title="Painel exportado na data 01/06/2026 em .xlsx">...</a> is not clickable at point (521, 364). Other element would receive the click: <div class="CookieBanner-module__[local]___2cHdB">...</div>
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6dfda3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6dfda4000+14980]
+	chromedriver!(No symbol) [0x7ff6df8e793d]
+	chromedriver!(No symbol) [0x7ff6df949755]
+	chromedriver!(No symbol) [0x7ff6df94736a]
+	chromedriver!(No symbol) [0x7ff6df9446b7]
+	chromedriver!(No symbol) [0x7ff6df943567]
+	chromedriver!(No symbol) [0x7ff6df935f48]
+	chromedriver!(No symbol) [0x7ff6df96a3ca]
+	chromedriver!(No symbol) [0x7ff6df9357c6]
+	chromedriver!(No symbol) [0x7ff6df98f39b]
+	chromedriver!(No symbol) [0x7ff6df93401c]
+	chromedriver!(No symbol) [0x7ff6df934f43]
+	chromedriver!GetHandleVerifier [0x7ff6e0387591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6e0381902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6e03a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6dfdc1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6dfdca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6dfd91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ff993b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff995e07c1c+2c]
+
+2026-07-06 11:58:38,382 | INFO | ====== WebDriver manager ======
+2026-07-06 11:58:38,833 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 11:59:22,014 | INFO | ====== WebDriver manager ======
+2026-07-06 11:59:22,493 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 11:59:29,612 | ERROR | Erro na coleta: Message: element click intercepted: Element <a class="internal-link" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="" href="resolveuid/ffa5f5200ae045a59b970607760ca1a8" target="_blank" title="Painel exportado na data 01/06/2026 em .xlsx">...</a> is not clickable at point (521, 364). Other element would receive the click: <div class="CookieBanner-module__[local]___2cHdB">...</div>
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6dfda3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6dfda4000+14980]
+	chromedriver!(No symbol) [0x7ff6df8e793d]
+	chromedriver!(No symbol) [0x7ff6df949755]
+	chromedriver!(No symbol) [0x7ff6df94736a]
+	chromedriver!(No symbol) [0x7ff6df9446b7]
+	chromedriver!(No symbol) [0x7ff6df943567]
+	chromedriver!(No symbol) [0x7ff6df935f48]
+	chromedriver!(No symbol) [0x7ff6df96a3ca]
+	chromedriver!(No symbol) [0x7ff6df9357c6]
+	chromedriver!(No symbol) [0x7ff6df98f39b]
+	chromedriver!(No symbol) [0x7ff6df93401c]
+	chromedriver!(No symbol) [0x7ff6df934f43]
+	chromedriver!GetHandleVerifier [0x7ff6e0387591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6e0381902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6e03a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6dfdc1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6dfdca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6dfd91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ff993b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff995e07c1c+2c]
+
+2026-07-06 11:59:33,929 | INFO | ====== WebDriver manager ======
+2026-07-06 11:59:34,451 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 11:59:42,220 | ERROR | Erro na coleta: Message: element click intercepted: Element <a class="internal-link" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="" href="resolveuid/ffa5f5200ae045a59b970607760ca1a8" target="_blank" title="Painel exportado na data 01/06/2026 em .xlsx">...</a> is not clickable at point (521, 364). Other element would receive the click: <div class="CookieBanner-module__[local]___2cHdB">...</div>
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6dfda3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6dfda4000+14980]
+	chromedriver!(No symbol) [0x7ff6df8e793d]
+	chromedriver!(No symbol) [0x7ff6df949755]
+	chromedriver!(No symbol) [0x7ff6df94736a]
+	chromedriver!(No symbol) [0x7ff6df9446b7]
+	chromedriver!(No symbol) [0x7ff6df943567]
+	chromedriver!(No symbol) [0x7ff6df935f48]
+	chromedriver!(No symbol) [0x7ff6df96a3ca]
+	chromedriver!(No symbol) [0x7ff6df9357c6]
+	chromedriver!(No symbol) [0x7ff6df98f39b]
+	chromedriver!(No symbol) [0x7ff6df93401c]
+	chromedriver!(No symbol) [0x7ff6df934f43]
+	chromedriver!GetHandleVerifier [0x7ff6e0387591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6e0381902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6e03a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6dfdc1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6dfdca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6dfd91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ff993b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff995e07c1c+2c]
+
+2026-07-06 12:04:29,404 | INFO | ====== WebDriver manager ======
+2026-07-06 12:04:29,907 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:04:34,575 | INFO | Link XLSX encontrado: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-06 12:04:35,601 | INFO | Arquivo XLSX salvo em C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\conitec_raw.xlsx
+2026-07-06 12:04:37,736 | ERROR | Erro na coleta: Excel file format cannot be determined, you must specify an engine manually.
+2026-07-06 12:10:44,966 | INFO | ====== WebDriver manager ======
+2026-07-06 12:10:45,457 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:11:27,257 | INFO | ====== WebDriver manager ======
+2026-07-06 12:11:27,732 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:16:26,510 | INFO | ====== WebDriver manager ======
+2026-07-06 12:16:26,971 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:20:46,266 | INFO | ====== WebDriver manager ======
+2026-07-06 12:20:46,738 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:20:53,786 | ERROR | Erro na coleta: Message: element click intercepted: Element <a class="internal-link" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="" href="resolveuid/ffa5f5200ae045a59b970607760ca1a8" target="_blank" title="Painel exportado na data 01/06/2026 em .xlsx">...</a> is not clickable at point (521, 364). Other element would receive the click: <div class="CookieBanner-module__[local]___2cHdB">...</div>
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6dfda3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6dfda4000+14980]
+	chromedriver!(No symbol) [0x7ff6df8e793d]
+	chromedriver!(No symbol) [0x7ff6df949755]
+	chromedriver!(No symbol) [0x7ff6df94736a]
+	chromedriver!(No symbol) [0x7ff6df9446b7]
+	chromedriver!(No symbol) [0x7ff6df943567]
+	chromedriver!(No symbol) [0x7ff6df935f48]
+	chromedriver!(No symbol) [0x7ff6df96a3ca]
+	chromedriver!(No symbol) [0x7ff6df9357c6]
+	chromedriver!(No symbol) [0x7ff6df98f39b]
+	chromedriver!(No symbol) [0x7ff6df93401c]
+	chromedriver!(No symbol) [0x7ff6df934f43]
+	chromedriver!GetHandleVerifier [0x7ff6e0387591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6e0381902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6e03a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6dfdc1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6dfdca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6dfd91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ff993b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff995e07c1c+2c]
+
+2026-07-06 12:23:12,481 | INFO | ====== WebDriver manager ======
+2026-07-06 12:23:12,962 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:23:21,607 | ERROR | Erro na coleta: Message: element click intercepted: Element <a class="internal-link" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="" href="resolveuid/ffa5f5200ae045a59b970607760ca1a8" target="_blank" title="Painel exportado na data 01/06/2026 em .xlsx">...</a> is not clickable at point (521, 364). Other element would receive the click: <div class="CookieBanner-module__[local]___2cHdB">...</div>
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6dfda3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6dfda4000+14980]
+	chromedriver!(No symbol) [0x7ff6df8e793d]
+	chromedriver!(No symbol) [0x7ff6df949755]
+	chromedriver!(No symbol) [0x7ff6df94736a]
+	chromedriver!(No symbol) [0x7ff6df9446b7]
+	chromedriver!(No symbol) [0x7ff6df943567]
+	chromedriver!(No symbol) [0x7ff6df935f48]
+	chromedriver!(No symbol) [0x7ff6df96a3ca]
+	chromedriver!(No symbol) [0x7ff6df9357c6]
+	chromedriver!(No symbol) [0x7ff6df98f39b]
+	chromedriver!(No symbol) [0x7ff6df93401c]
+	chromedriver!(No symbol) [0x7ff6df934f43]
+	chromedriver!GetHandleVerifier [0x7ff6e0387591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6e0381902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6e03a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6dfdc1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6dfdca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6dfd91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ff993b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff995e07c1c+2c]
+
+2026-07-06 12:23:46,046 | INFO | ====== WebDriver manager ======
+2026-07-06 12:23:46,518 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:23:55,155 | ERROR | Erro na coleta: Message: element click intercepted: Element <a class="internal-link" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="" href="resolveuid/ffa5f5200ae045a59b970607760ca1a8" target="_blank" title="Painel exportado na data 01/06/2026 em .xlsx">...</a> is not clickable at point (521, 364). Other element would receive the click: <div class="CookieBanner-module__[local]___2cHdB">...</div>
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6dfda3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6dfda4000+14980]
+	chromedriver!(No symbol) [0x7ff6df8e793d]
+	chromedriver!(No symbol) [0x7ff6df949755]
+	chromedriver!(No symbol) [0x7ff6df94736a]
+	chromedriver!(No symbol) [0x7ff6df9446b7]
+	chromedriver!(No symbol) [0x7ff6df943567]
+	chromedriver!(No symbol) [0x7ff6df935f48]
+	chromedriver!(No symbol) [0x7ff6df96a3ca]
+	chromedriver!(No symbol) [0x7ff6df9357c6]
+	chromedriver!(No symbol) [0x7ff6df98f39b]
+	chromedriver!(No symbol) [0x7ff6df93401c]
+	chromedriver!(No symbol) [0x7ff6df934f43]
+	chromedriver!GetHandleVerifier [0x7ff6e0387591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6e0381902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6e03a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6dfdc1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6dfdca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6dfdad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6dfd91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ff993b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff995e07c1c+2c]
+
+2026-07-06 12:25:16,426 | INFO | ====== WebDriver manager ======
+2026-07-06 12:25:16,910 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:25:22,090 | INFO | Nenhum banner de cookies encontrado.
+2026-07-06 12:25:22,118 | INFO | Clique no link realizado, aguardando download...
+2026-07-06 12:25:39,151 | INFO | ====== WebDriver manager ======
+2026-07-06 12:25:39,657 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-06 12:25:44,595 | INFO | Nenhum banner de cookies encontrado.
+2026-07-06 12:25:44,620 | INFO | Clique no link realizado, aguardando download...
+2026-07-06 12:25:54,441 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forÁado o cancelamento de uma conex„o existente pelo host remoto', None, 10054, None)': /session/7a7c68a331f8a1fcab3bc6813d96ade6
+2026-07-06 12:25:58,511 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54701): Failed to establish a new connection: [WinError 10061] Nenhuma conex„o pÙde ser feita porque a m·quina de destino as recusou ativamente")': /session/7a7c68a331f8a1fcab3bc6813d96ade6
+2026-07-06 12:26:02,566 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54701): Failed to establish a new connection: [WinError 10061] Nenhuma conex„o pÙde ser feita porque a m·quina de destino as recusou ativamente")': /session/7a7c68a331f8a1fcab3bc6813d96ade6
+2026-07-06 23:29:44,252 | INFO | === Iniciando Processo RPA Conitec ===
+2026-07-06 23:29:44,252 | INFO | Configurando o driver do Chrome...
+2026-07-06 23:29:45,590 | INFO | Navegando at√© a p√°gina da Conitec: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-06 23:29:51,627 | INFO | Link de download localizado usando o XPath: '//a[contains(@class, 'internal-link') and contains(@href, 'resolveuid')]'
+2026-07-06 23:29:51,628 | INFO | Disparando o clique no link de download...
+2026-07-06 23:29:52,712 | WARNING | Clique padr√£o falhou. Tentando clicar via execu√ß√£o de JavaScript...
+2026-07-06 23:29:52,734 | INFO | Aguardando a conclus√£o do download...
+2026-07-06 23:30:52,779 | ERROR | Ocorreu uma falha no processamento do RPA: O download do arquivo Excel expirou ou falhou.
+Traceback (most recent call last):
+  File "C:\Users\WelO9\OneDrive\√Årea de Trabalho\inova_trial_ai\extract_conitec.py", line 170, in main
+    arquivo_excel = aguardar_download(PASTA_RAW, arquivos_antes, timeout=60)
+  File "C:\Users\WelO9\OneDrive\√Årea de Trabalho\inova_trial_ai\extract_conitec.py", line 91, in aguardar_download
+    raise TimeoutError("O download do arquivo Excel expirou ou falhou.")
+TimeoutError: O download do arquivo Excel expirou ou falhou.
+2026-07-06 23:30:52,780 | INFO | Encerrando navegador...
+2026-07-06 23:32:22,406 | INFO | === Iniciando Processo RPA Conitec ===
+2026-07-06 23:32:22,406 | INFO | Configurando o driver do Chrome...
+2026-07-06 23:32:23,446 | INFO | Navegando at√© a p√°gina da Conitec: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-06 23:32:29,902 | INFO | Link de download localizado na p√°gina usando XPath: '//a[contains(@class, 'internal-link') and contains(@href, 'resolveuid')]'
+2026-07-06 23:32:29,947 | INFO | Link original (href) obtido: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-06 23:32:29,947 | INFO | Encerrando navegador...
+2026-07-06 23:32:32,089 | INFO | Resolvendo redirecionamentos e baixando arquivo via requests...
+2026-07-06 23:32:32,693 | INFO | URL resolvida ap√≥s redirecionamento: https://www.gov.br/conitec/pt-br/midias/dados-em-excel/Painel_Demandas_Conitec_20260615.xlsx
+2026-07-06 23:32:32,693 | INFO | URL de download direto constru√≠da: https://www.gov.br/conitec/pt-br/midias/dados-em-excel/Painel_Demandas_Conitec_20260615.xlsx/@@download/file
+2026-07-06 23:32:32,693 | INFO | Iniciando o download do arquivo 'Painel_Demandas_Conitec_20260615.xlsx'...
+2026-07-06 23:32:33,134 | INFO | Arquivo Excel baixado com sucesso: C:\Users\WelO9\OneDrive\√Årea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\Painel_Demandas_Conitec_20260615.xlsx
+2026-07-06 23:32:33,136 | INFO | Iniciando convers√£o de Painel_Demandas_Conitec_20260615.xlsx para CSV...
+2026-07-06 23:32:37,313 | INFO | Convers√£o conclu√≠da. Arquivo CSV gerado em: C:\Users\WelO9\OneDrive\√Årea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\conitec_raw.csv
+2026-07-06 23:32:37,313 | INFO | === RPA Conitec Finalizado com Sucesso ===
+2026-07-07 00:11:40,348 | INFO | === Iniciando Processo RPA Conitec ===
+2026-07-07 00:11:40,348 | INFO | Configurando o driver do Chrome...
+2026-07-07 00:11:46,235 | INFO | Navegando at√© a p√°gina da Conitec: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-07 00:11:53,122 | INFO | Link de download localizado na p√°gina usando XPath: '//a[contains(@class, 'internal-link') and contains(@href, 'resolveuid')]'
+2026-07-07 00:11:53,128 | INFO | Link original (href) obtido: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-07 00:11:53,128 | INFO | Encerrando navegador...
+2026-07-07 00:11:55,314 | INFO | Resolvendo redirecionamentos e baixando arquivo via requests...
+2026-07-07 00:11:56,128 | INFO | URL resolvida ap√≥s redirecionamento: https://www.gov.br/conitec/pt-br/midias/dados-em-excel/Painel_Demandas_Conitec_20260615.xlsx
+2026-07-07 00:11:56,129 | INFO | URL de download direto constru√≠da: https://www.gov.br/conitec/pt-br/midias/dados-em-excel/Painel_Demandas_Conitec_20260615.xlsx/@@download/file
+2026-07-07 00:11:56,129 | INFO | Iniciando o download do arquivo 'Painel_Demandas_Conitec_20260615.xlsx'...
+2026-07-07 00:11:56,675 | INFO | Arquivo Excel baixado com sucesso: C:\Users\WelO9\OneDrive\√Årea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\Painel_Demandas_Conitec_20260615.xlsx
+2026-07-07 00:11:56,676 | INFO | Iniciando convers√£o de Painel_Demandas_Conitec_20260615.xlsx para CSV...
+2026-07-07 00:11:56,930 | INFO | Convers√£o conclu√≠da. Arquivo CSV gerado em: C:\Users\WelO9\OneDrive\√Årea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\conitec_raw.csv
+2026-07-07 00:11:56,931 | INFO | === RPA Conitec Finalizado com Sucesso ===
+2026-07-07 00:13:33,987 | INFO | ====== WebDriver manager ======
+2026-07-07 00:13:34,490 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 00:13:40,604 | INFO | Nenhum banner de cookies encontrado.
+2026-07-07 00:13:40,634 | INFO | Clique no link realizado, aguardando download...
+2026-07-07 00:14:12,762 | ERROR | Erro na coleta: Nenhum arquivo Excel encontrado na pasta de download.
+2026-07-07 00:15:30,944 | INFO | ====== WebDriver manager ======
+2026-07-07 00:15:31,435 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 00:15:32,141 | INFO | Navegando atÈ a p·gina principal: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-07 00:15:38,061 | INFO | Nenhum banner de cookies encontrado.
+2026-07-07 00:15:38,075 | INFO | URL de detalhes extraÌda: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-07 00:15:41,517 | INFO | Disparando o clique no link real de download...
+2026-07-07 00:15:41,524 | INFO | Aguardando finalizaÁ„o do download...
+2026-07-07 00:15:42,525 | INFO | Arquivo baixado com sucesso: C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\Painel_Demandas_Conitec_20260615.xlsx
+2026-07-07 00:15:44,883 | INFO | CSV gerado em C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\conitec_raw.csv
+2026-07-07 00:20:34,762 | INFO | ====== WebDriver manager ======
+2026-07-07 00:20:35,270 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 00:20:35,943 | INFO | Navegando atÈ a p·gina principal: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-07 00:20:39,991 | INFO | Nenhum banner de cookies encontrado.
+2026-07-07 00:20:40,042 | INFO | URL de detalhes extraÌda: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-07 00:20:43,436 | INFO | Disparando o clique no link real de download...
+2026-07-07 00:20:43,440 | INFO | Aguardando finalizaÁ„o do download...
+2026-07-07 00:20:44,442 | INFO | Arquivo baixado com sucesso: C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\Painel_Demandas_Conitec_20260615.xlsx
+2026-07-07 00:20:46,596 | ERROR | Erro na coleta: `Import openpyxl` failed.  Use pip or conda to install the openpyxl package.
+2026-07-07 00:24:02,616 | INFO | ====== WebDriver manager ======
+2026-07-07 00:24:03,158 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 00:24:03,758 | INFO | Navegando atÈ a p·gina principal: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-07 00:24:08,386 | INFO | Nenhum banner de cookies encontrado.
+2026-07-07 00:24:08,397 | INFO | URL de detalhes extraÌda: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-07 00:24:11,977 | INFO | Disparando o clique no link real de download...
+2026-07-07 00:24:11,982 | INFO | Aguardando finalizaÁ„o do download...
+2026-07-07 00:24:12,983 | INFO | Arquivo baixado com sucesso: C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\Painel_Demandas_Conitec_20260615.xlsx
+2026-07-07 00:24:15,362 | INFO | CSV gerado em C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\conitec_raw.csv
+2026-07-07 00:43:33,809 | INFO | ====== WebDriver manager ======
+2026-07-07 00:43:34,288 | INFO | Driver [C:\Users\WelO9\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 00:43:35,073 | INFO | Navegando atÈ a p·gina principal: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas
+2026-07-07 00:43:42,539 | INFO | Nenhum banner de cookies encontrado.
+2026-07-07 00:43:42,549 | INFO | URL de detalhes extraÌda: https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/resolveuid/ffa5f5200ae045a59b970607760ca1a8
+2026-07-07 00:43:46,347 | INFO | Disparando o clique no link real de download...
+2026-07-07 00:43:46,352 | INFO | Aguardando finalizaÁ„o do download...
+2026-07-07 00:43:47,354 | INFO | Arquivo baixado com sucesso: C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\Painel_Demandas_Conitec_20260615.xlsx
+2026-07-07 00:43:49,704 | INFO | CSV gerado em C:\Users\WelO9\OneDrive\¡rea de Trabalho\inova_trial_ai\data_conitec\raw_conitec\conitec_raw.csv
